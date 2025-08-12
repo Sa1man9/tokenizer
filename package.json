@@ -1,0 +1,17 @@
+{
+  "name": "tokenizer",
+  "version": "1.0.0",
+  "description": "a custom tokenizer in JavaScript that learns vocab from text, supports ENCODE/DECODE",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
